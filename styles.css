@@ -1,0 +1,29 @@
+body {
+    background-color: rgba(254, 248, 236);
+    padding: 40px;
+    margin: 0 15%;
+}
+
+nav {
+    overflow: auto;
+}
+.logo {
+    display: inline-block;
+    float: left;
+    padding: 20px 0;
+}
+
+ul {
+    display: inline-block;
+    padding: 0;
+    float: right;
+}
+
+li {
+    display: inline;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 50px;
+}
